@@ -20,13 +20,13 @@
     "UIComponentList": {},
     "Transform": {
       "Position": {
-        "X": -1110.0396728515625,
-        "Y": 117.15010070800781,
-        "Z": -676.9982299804688
+        "X": -1113.206298828125,
+        "Y": 116.0,
+        "Z": -686.7494506835938
       },
       "Rotation": {
         "Pitch": 0.0,
-        "Yaw": -2.6078555583953857,
+        "Yaw": 3.223646879196167,
         "Roll": 0.0
       }
     },
@@ -35,9 +35,9 @@
     },
     "Velocity": {
       "Velocity": {
-        "X": 0.04023894103960496,
+        "X": -0.08056624898048317,
         "Y": 0.0,
-        "Z": 0.07133266820657243
+        "Z": -0.21423298024355752
       }
     },
     "Player": {
@@ -52,16 +52,23 @@
           "Id": "Simple",
           "Capacity": 36,
           "Items": {
-            "35": {
-              "Id": "Weapon_Shortbow_Iron_Rusty",
-              "Quantity": 1,
-              "Durability": 84.0,
-              "MaxDurability": 120.0,
+            "0": {
+              "Id": "Weapon_Arrow_Crude",
+              "Quantity": 82,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
-            "25": {
-              "Id": "Weapon_Arrow_Crude",
-              "Quantity": 34,
+            "33": {
+              "Id": "Plant_Crop_Mushroom_Shelve_Yellow",
+              "Quantity": 4,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "29": {
+              "Id": "Food_Wildmeat_Cooked",
+              "Quantity": 3,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -73,9 +80,30 @@
               "MaxDurability": 250.0,
               "OverrideDroppedItemAnimation": false
             },
+            "8": {
+              "Id": "Tool_Hoe_Crude",
+              "Quantity": 1,
+              "Durability": 91.0,
+              "MaxDurability": 100.0,
+              "OverrideDroppedItemAnimation": false
+            },
             "31": {
               "Id": "Food_Kebab_Mushroom",
               "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "32": {
+              "Id": "Food_Fish_Grilled",
+              "Quantity": 6,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "30": {
+              "Id": "Food_Kebab_Meat",
+              "Quantity": 3,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -85,6 +113,13 @@
               "Quantity": 1,
               "Durability": 21.979999999999947,
               "MaxDurability": 50.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "17": {
+              "Id": "Plant_Crop_Aubergine_Item",
+              "Quantity": 11,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             }
           }
@@ -96,15 +131,29 @@
             "0": {
               "Id": "Armor_Copper_Head",
               "Quantity": 1,
-              "Durability": 75.5,
+              "Durability": 71.0,
               "MaxDurability": 80.0,
               "OverrideDroppedItemAnimation": false
             },
             "2": {
               "Id": "Armor_Iron_Hands",
               "Quantity": 1,
-              "Durability": 100.0,
+              "Durability": 91.5,
               "MaxDurability": 100.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "1": {
+              "Id": "Armor_Copper_Chest",
+              "Quantity": 1,
+              "Durability": 80.0,
+              "MaxDurability": 80.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "3": {
+              "Id": "Armor_Copper_Legs",
+              "Quantity": 1,
+              "Durability": 80.0,
+              "MaxDurability": 80.0,
               "OverrideDroppedItemAnimation": false
             }
           }
@@ -116,43 +165,50 @@
             "0": {
               "Id": "Tool_Pickaxe_Copper",
               "Quantity": 1,
-              "Durability": 33.5,
+              "Durability": 15.75,
               "MaxDurability": 180.0,
               "OverrideDroppedItemAnimation": false
             },
             "2": {
               "Id": "Tool_Hatchet_Copper",
               "Quantity": 1,
-              "Durability": 138.0,
+              "Durability": 130.75,
               "MaxDurability": 200.0,
               "OverrideDroppedItemAnimation": false
             },
             "4": {
               "Id": "Food_Vegetable_Cooked",
-              "Quantity": 11,
+              "Quantity": 1,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
             "8": {
-              "Id": "Tool_Hoe_Crude",
+              "Id": "Weapon_Shortbow_Iron_Rusty",
               "Quantity": 1,
-              "Durability": 94.0,
-              "MaxDurability": 100.0,
+              "Durability": 66.60000000000005,
+              "MaxDurability": 120.0,
               "OverrideDroppedItemAnimation": false
             },
             "1": {
-              "Id": "Weapon_Daggers_Crude",
+              "Id": "Weapon_Daggers_Copper",
               "Quantity": 1,
-              "Durability": 80.0,
-              "MaxDurability": 80.0,
+              "Durability": 94.20000000000033,
+              "MaxDurability": 100.0,
               "OverrideDroppedItemAnimation": false
             },
             "3": {
-              "Id": "Weapon_Battleaxe_Crude",
+              "Id": "Weapon_Battleaxe_Iron",
               "Quantity": 1,
-              "Durability": 48.34999999999995,
-              "MaxDurability": 80.0,
+              "Durability": 97.49999999999986,
+              "MaxDurability": 120.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "7": {
+              "Id": "*Tool_Watering_Can_State_Filled_Water",
+              "Quantity": 1,
+              "Durability": 6.0,
+              "MaxDurability": 20.0,
               "OverrideDroppedItemAnimation": false
             }
           }
@@ -161,9 +217,16 @@
           "Id": "Simple",
           "Capacity": 4,
           "Items": {
-            "1": {
+            "0": {
               "Id": "Furniture_Crude_Torch",
-              "Quantity": 72,
+              "Quantity": 67,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "1": {
+              "Id": "Weapon_Shield_Copper",
+              "Quantity": 1,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -223,7 +286,7 @@
           }
         },
         "ActiveToolsSlot": -1,
-        "ActiveUtilitySlot": 1,
+        "ActiveUtilitySlot": 0,
         "SortType": "Name"
       },
       "PlayerData": {
@@ -233,11 +296,11 @@
         "PerWorldData": {
           "default": {
             "LastPosition": {
-              "X": -1110.0396728515625,
-              "Y": 117.15010070800781,
-              "Z": -676.9982299804688,
-              "Pitch": -0.6228587031364441,
-              "Yaw": -2.607854127883911,
+              "X": -1113.206298828125,
+              "Y": 116.0,
+              "Z": -686.7494506835938,
+              "Pitch": -0.20257337391376495,
+              "Yaw": 2.6240386962890625,
               "Roll": 0.0
             },
             "LastMovementStates": {
@@ -312,11 +375,14 @@
           }
         },
         "DiscoveredZones": [
+          "Zone1_Spawn",
+          "Zone3_Tier2",
+          "Zone3_Shore_Tier2",
           "Zone1_Tier3",
-          "Zone3_Tier1",
+          "Zone3_Shallow_Ocean_Tier2",
           "Zone1_Tier2",
           "Zone1_Tier1",
-          "Zone1_Spawn"
+          "Zone3_Tier1"
         ],
         "DiscoveredInstances": [],
         "ReputationData": {},
@@ -366,12 +432,12 @@
         },
         "Health": {
           "Id": "Health",
-          "Value": 81.24003601074219,
+          "Value": 112.0,
           "Modifiers": {
             "Armor_ADDITIVE": {
               "Id": "Static",
               "CalculationType": "Additive",
-              "Amount": 12.0
+              "Amount": 28.0
             }
           }
         },
@@ -419,8 +485,8 @@
     },
     "HeadRotation": {
       "Rotation": {
-        "Pitch": -0.6228587031364441,
-        "Yaw": -2.607854127883911,
+        "Pitch": -0.20257337391376495,
+        "Yaw": 2.6240386962890625,
         "Roll": 0.0
       }
     }
