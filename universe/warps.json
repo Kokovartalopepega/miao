@@ -1,0 +1,24 @@
+{
+  "Warps": [
+    {
+      "Id": "Kontula",
+      "World": "default",
+      "Creator": "*Teleporter",
+      "CreationDate": "2026-02-08T15:23:58.977290800Z",
+      "X": -1099.5,
+      "Y": 118.65,
+      "Z": -685.5,
+      "Yaw": 7.853981971740723
+    },
+    {
+      "Id": "Korkalovaara",
+      "World": "default",
+      "Creator": "*Teleporter",
+      "CreationDate": "2026-02-08T15:26:25.088762100Z",
+      "X": -163.5,
+      "Y": 140.65,
+      "Z": -1059.5,
+      "Yaw": 3.1415927410125732
+    }
+  ]
+}
