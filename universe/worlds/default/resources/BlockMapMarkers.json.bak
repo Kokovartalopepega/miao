@@ -8,7 +8,17 @@
       },
       "Name": "server.items.Forgotten_Temple_Portal_Enter.name",
       "Icon": "Temple_Gateway.png",
-      "MarkerId": "1c8a8846-1a81-4991-a3bd-d8b65580b6a0"
+      "MarkerId": "6787cd87-ee28-4878-8435-76efa75f3d95"
+    },
+    "2071655806981375284": {
+      "Position": {
+        "X": 1332,
+        "Y": 114,
+        "Z": -161
+      },
+      "Name": "server.items.Forgotten_Temple_Portal_Enter.name",
+      "Icon": "Temple_Gateway.png",
+      "MarkerId": "251fc235-40e3-4d2d-be79-2509b950deaf"
     },
     "1891511891411336010": {
       "Position": {
