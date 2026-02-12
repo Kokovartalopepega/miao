@@ -20,13 +20,13 @@
     "UIComponentList": {},
     "Transform": {
       "Position": {
-        "X": -1107.7479248046875,
-        "Y": 116.0,
-        "Z": -694.1458129882812
+        "X": -1108.7958984375,
+        "Y": 125.14013671875,
+        "Z": -680.5803833007812
       },
       "Rotation": {
         "Pitch": 0.0,
-        "Yaw": -0.48283690214157104,
+        "Yaw": 25.491975784301758,
         "Roll": 0.0
       }
     },
@@ -215,9 +215,9 @@
     },
     "Velocity": {
       "Velocity": {
-        "X": 0.0,
-        "Y": 0.0,
-        "Z": 0.0
+        "X": -0.043945226716627185,
+        "Y": -1.0663583920456565,
+        "Z": 0.05126943116939838
       }
     },
     "Player": {
@@ -246,18 +246,25 @@
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
-            "29": {
-              "Id": "Food_Wildmeat_Cooked",
-              "Quantity": 10,
+            "4": {
+              "Id": "Ingredient_Leather_Medium",
+              "Quantity": 1,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
-            "4": {
-              "Id": "Ingredient_Life_Essence",
-              "Quantity": 98,
+            "12": {
+              "Id": "Ingredient_Fabric_Scrap_Linen",
+              "Quantity": 17,
               "Durability": 0.0,
               "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "13": {
+              "Id": "Weapon_Sword_Scrap",
+              "Quantity": 1,
+              "Durability": 50.0,
+              "MaxDurability": 50.0,
               "OverrideDroppedItemAnimation": false
             },
             "8": {
@@ -268,8 +275,8 @@
               "OverrideDroppedItemAnimation": false
             },
             "9": {
-              "Id": "Wood_Oak_Trunk",
-              "Quantity": 17,
+              "Id": "Ingredient_Life_Essence",
+              "Quantity": 6,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -281,36 +288,36 @@
               "MaxDurability": 325.0,
               "OverrideDroppedItemAnimation": false
             },
-            "28": {
-              "Id": "Weapon_Battleaxe_Cobalt",
+            "24": {
+              "Id": "Rubble_Stone",
               "Quantity": 1,
               "Durability": 0.0,
-              "MaxDurability": 150.0,
+              "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
-            "24": {
-              "Id": "Ingredient_Bar_Adamantite",
-              "Quantity": 2,
+            "26": {
+              "Id": "Ingredient_Bar_Thorium",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "16": {
+              "Id": "Potion_Health",
+              "Quantity": 1,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
             "19": {
-              "Id": "Ingredient_Stick",
-              "Quantity": 50,
+              "Id": "Ingredient_Powder_Boom",
+              "Quantity": 2,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
             "18": {
               "Id": "Weapon_Bomb",
-              "Quantity": 2,
-              "Durability": 0.0,
-              "MaxDurability": 0.0,
-              "OverrideDroppedItemAnimation": false
-            },
-            "20": {
-              "Id": "Soil_Sand_Red",
               "Quantity": 2,
               "Durability": 0.0,
               "MaxDurability": 0.0,
@@ -324,15 +331,15 @@
               "OverrideDroppedItemAnimation": false
             },
             "2": {
-              "Id": "Food_Wildmeat_Raw",
-              "Quantity": 11,
+              "Id": "Ingredient_Fire_Essence",
+              "Quantity": 5,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
             "6": {
               "Id": "Weapon_Arrow_Crude",
-              "Quantity": 89,
+              "Quantity": 95,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -344,9 +351,9 @@
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
-            "11": {
-              "Id": "Ingredient_Stick",
-              "Quantity": 20,
+            "10": {
+              "Id": "Teleporter",
+              "Quantity": 2,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -359,8 +366,22 @@
               "OverrideDroppedItemAnimation": false
             },
             "1": {
-              "Id": "Rock_Magma_Cooled",
-              "Quantity": 33,
+              "Id": "Food_Wildmeat_Cooked",
+              "Quantity": 9,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "3": {
+              "Id": "Container_Bucket",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "34": {
+              "Id": "Potion_Stamina_Lesser",
+              "Quantity": 6,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -370,6 +391,13 @@
               "Quantity": 1,
               "Durability": 42.0,
               "MaxDurability": 100.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "5": {
+              "Id": "Food_Wildmeat_Raw",
+              "Quantity": 13,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             }
           }
@@ -381,21 +409,21 @@
             "0": {
               "Id": "Armor_Cobalt_Head",
               "Quantity": 1,
-              "Durability": 77.0,
+              "Durability": 76.0,
               "MaxDurability": 120.0,
               "OverrideDroppedItemAnimation": false
             },
             "2": {
               "Id": "Armor_Thorium_Hands",
               "Quantity": 1,
-              "Durability": 97.5,
+              "Durability": 96.5,
               "MaxDurability": 120.0,
               "OverrideDroppedItemAnimation": false
             },
             "1": {
               "Id": "Armor_Thorium_Chest",
               "Quantity": 1,
-              "Durability": 31.5,
+              "Durability": 30.0,
               "MaxDurability": 120.0,
               "OverrideDroppedItemAnimation": false
             },
@@ -415,7 +443,7 @@
             "0": {
               "Id": "Tool_Pickaxe_Thorium",
               "Quantity": 1,
-              "Durability": 213.3,
+              "Durability": 78.55000000000001,
               "MaxDurability": 262.0,
               "OverrideDroppedItemAnimation": false
             },
@@ -433,13 +461,6 @@
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
-            "4": {
-              "Id": "Teleporter",
-              "Quantity": 2,
-              "Durability": 0.0,
-              "MaxDurability": 0.0,
-              "OverrideDroppedItemAnimation": false
-            },
             "8": {
               "Id": "Weapon_Shortbow_Thorium",
               "Quantity": 1,
@@ -450,27 +471,27 @@
             "1": {
               "Id": "Weapon_Battleaxe_Thorium",
               "Quantity": 1,
-              "Durability": 70.20000000000027,
+              "Durability": 55.80000000000018,
               "MaxDurability": 150.0,
               "OverrideDroppedItemAnimation": false
             },
             "3": {
               "Id": "Tool_Hatchet_Cobalt",
               "Quantity": 1,
-              "Durability": 156.0,
+              "Durability": 154.25,
               "MaxDurability": 325.0,
               "OverrideDroppedItemAnimation": false
             },
             "7": {
-              "Id": "Potion_Stamina_Lesser",
-              "Quantity": 4,
+              "Id": "Food_Wildmeat_Cooked",
+              "Quantity": 25,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
             "5": {
-              "Id": "Food_Kebab_Vegetable",
-              "Quantity": 3,
+              "Id": "Furniture_Crude_Torch",
+              "Quantity": 55,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -483,7 +504,7 @@
           "Items": {
             "0": {
               "Id": "Furniture_Crude_Torch",
-              "Quantity": 84,
+              "Quantity": 71,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -550,7 +571,7 @@
           }
         },
         "ActiveToolsSlot": -1,
-        "ActiveUtilitySlot": 1,
+        "ActiveUtilitySlot": 0,
         "SortType": "Name"
       },
       "PlayerData": {
@@ -560,11 +581,11 @@
         "PerWorldData": {
           "default": {
             "LastPosition": {
-              "X": -1074.690185546875,
-              "Y": 135.0,
-              "Z": -718.7603149414062,
-              "Pitch": -0.4567728042602539,
-              "Yaw": 2.2054495811462402,
+              "X": -1107.7479248046875,
+              "Y": 116.0,
+              "Z": -694.1458129882812,
+              "Pitch": -0.061500996351242065,
+              "Yaw": -1.238985538482666,
               "Roll": 0.0
             },
             "LastMovementStates": {
@@ -651,26 +672,26 @@
           }
         },
         "DiscoveredZones": [
-          "Oceans",
-          "Zone1_Temple",
-          "Zone4_Shallow_Ocean_Tier5",
-          "ForgottenTemple",
           "Zone3_Shallow_Ocean_Tier2",
-          "Zone1_Tier3",
           "Zone3_Shallow_Ocean_Tier3",
-          "Zone1_Tier2",
-          "Zone1_Tier1",
           "Zone3_Shore_Tier2",
-          "Zone3_Tier2",
-          "Zone1_Spawn",
+          "Zone1_Temple",
           "Zone3_Shore_Tier3",
-          "Zone3_Tier3",
           "Zone4_Tier5",
           "Zone4_Shore_Tier5",
           "Zone2_Tier1",
           "Zone2_Tier2",
+          "Oceans",
           "Zone2_Tier3",
-          "Zone3_Tier1"
+          "Zone3_Tier1",
+          "Zone1_Spawn",
+          "Zone1_Tier1",
+          "Zone1_Tier2",
+          "ForgottenTemple",
+          "Zone4_Shallow_Ocean_Tier5",
+          "Zone1_Tier3",
+          "Zone3_Tier2",
+          "Zone3_Tier3"
         ],
         "DiscoveredInstances": [
           {
@@ -733,7 +754,7 @@
         },
         "Health": {
           "Id": "Health",
-          "Value": 143.0,
+          "Value": 161.0,
           "Modifiers": {
             "Armor_ADDITIVE": {
               "Id": "Static",
@@ -786,8 +807,8 @@
     },
     "HeadRotation": {
       "Rotation": {
-        "Pitch": -0.061500996351242065,
-        "Yaw": -1.238985538482666,
+        "Pitch": -1.2113240957260132,
+        "Yaw": 1.0777857303619385,
         "Roll": 0.0
       }
     }
