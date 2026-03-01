@@ -20,13 +20,13 @@
     "UIComponentList": {},
     "Transform": {
       "Position": {
-        "X": -1106.908203125,
-        "Y": 123.0,
-        "Z": -690.3390502929688
+        "X": -1109.7779541015625,
+        "Y": 117.1500015258789,
+        "Z": -678.2520751953125
       },
       "Rotation": {
         "Pitch": 0.0,
-        "Yaw": 2.4484500885009766,
+        "Yaw": 2.5337326526641846,
         "Roll": 0.0
       }
     },
@@ -37,7 +37,6 @@
           "Id": "NPC",
           "NPCRole": "Spawn_Void",
           "TranslationKey": "server.npcRoles.Spawn_Void.name",
-          "IsMemoriesNameOverridden": false,
           "CapturedTimestamp": 1770651550407,
           "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
         },
@@ -45,7 +44,6 @@
           "Id": "NPC",
           "NPCRole": "Sparrow",
           "TranslationKey": "server.npcRoles.Sparrow.name",
-          "IsMemoriesNameOverridden": false,
           "CapturedTimestamp": 1770651980858,
           "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
         },
@@ -53,7 +51,6 @@
           "Id": "NPC",
           "NPCRole": "Golem_Crystal_Earth",
           "TranslationKey": "server.npcRoles.Golem_Crystal_Earth.name",
-          "IsMemoriesNameOverridden": false,
           "CapturedTimestamp": 1770652239904,
           "FoundLocationNameKey": "server.map.region.Zone1_Temple"
         },
@@ -61,7 +58,6 @@
           "Id": "NPC",
           "NPCRole": "Armadillo",
           "TranslationKey": "server.npcRoles.Armadillo.name",
-          "IsMemoriesNameOverridden": false,
           "CapturedTimestamp": 1770652404973,
           "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
         },
@@ -69,7 +65,6 @@
           "Id": "NPC",
           "NPCRole": "Scorpion",
           "TranslationKey": "server.npcRoles.Scorpion.name",
-          "IsMemoriesNameOverridden": false,
           "CapturedTimestamp": 1770652413940,
           "FoundLocationNameKey": "server.map.region.Zone2_Tier1"
         },
@@ -77,7 +72,6 @@
           "Id": "NPC",
           "NPCRole": "Skeleton_Sand_Guard",
           "TranslationKey": "server.npcRoles.Skeleton_Sand_Guard.name",
-          "IsMemoriesNameOverridden": true,
           "CapturedTimestamp": 1770652440985,
           "FoundLocationNameKey": "server.map.region.Zone2_Tier1"
         },
@@ -85,7 +79,6 @@
           "Id": "NPC",
           "NPCRole": "Tiger_Sabertooth",
           "TranslationKey": "server.npcRoles.Tiger_Sabertooth.name",
-          "IsMemoriesNameOverridden": false,
           "CapturedTimestamp": 1770652445355,
           "FoundLocationNameKey": "server.map.region.Zone2_Tier1"
         },
@@ -93,7 +86,6 @@
           "Id": "NPC",
           "NPCRole": "Meerkat",
           "TranslationKey": "server.npcRoles.Meerkat.name",
-          "IsMemoriesNameOverridden": false,
           "CapturedTimestamp": 1770652451590,
           "FoundLocationNameKey": "server.map.region.Zone2_Tier1"
         },
@@ -101,7 +93,6 @@
           "Id": "NPC",
           "NPCRole": "Eel_Moray",
           "TranslationKey": "server.npcRoles.Eel_Moray.name",
-          "IsMemoriesNameOverridden": false,
           "CapturedTimestamp": 1770652468292,
           "FoundLocationNameKey": "server.map.region.Zone2_Tier1"
         },
@@ -109,7 +100,6 @@
           "Id": "NPC",
           "NPCRole": "Skeleton_Sand_Assassin",
           "TranslationKey": "server.npcRoles.Skeleton_Sand_Assassin.name",
-          "IsMemoriesNameOverridden": true,
           "CapturedTimestamp": 1770652523830,
           "FoundLocationNameKey": "server.map.region.Zone2_Tier1"
         },
@@ -117,7 +107,6 @@
           "Id": "NPC",
           "NPCRole": "Scarak_Seeker",
           "TranslationKey": "server.npcRoles.Scarak_Seeker.name",
-          "IsMemoriesNameOverridden": true,
           "CapturedTimestamp": 1770652558220,
           "FoundLocationNameKey": "server.map.region.Zone2_Tier1"
         },
@@ -125,7 +114,6 @@
           "Id": "NPC",
           "NPCRole": "Snake_Rattle",
           "TranslationKey": "server.npcRoles.Snake_Rattle.name",
-          "IsMemoriesNameOverridden": false,
           "CapturedTimestamp": 1770652569587,
           "FoundLocationNameKey": "server.map.region.Zone2_Tier2"
         },
@@ -133,7 +121,6 @@
           "Id": "NPC",
           "NPCRole": "Camel",
           "TranslationKey": "server.npcRoles.Camel.name",
-          "IsMemoriesNameOverridden": false,
           "CapturedTimestamp": 1770652571656,
           "FoundLocationNameKey": "server.map.region.Zone2_Tier2"
         },
@@ -141,7 +128,6 @@
           "Id": "NPC",
           "NPCRole": "Lizard_Sand",
           "TranslationKey": "server.npcRoles.Lizard_Sand.name",
-          "IsMemoriesNameOverridden": false,
           "CapturedTimestamp": 1770652581138,
           "FoundLocationNameKey": "server.map.region.Zone2_Tier2"
         },
@@ -149,7 +135,6 @@
           "Id": "NPC",
           "NPCRole": "Cactee",
           "TranslationKey": "server.npcRoles.Cactee.name",
-          "IsMemoriesNameOverridden": false,
           "CapturedTimestamp": 1770652628909,
           "FoundLocationNameKey": "server.map.region.Zone2_Tier2"
         },
@@ -157,7 +142,6 @@
           "Id": "NPC",
           "NPCRole": "Vulture",
           "TranslationKey": "server.npcRoles.Vulture.name",
-          "IsMemoriesNameOverridden": false,
           "CapturedTimestamp": 1770652737656,
           "FoundLocationNameKey": "server.map.region.Zone2_Tier3"
         },
@@ -165,7 +149,6 @@
           "Id": "NPC",
           "NPCRole": "Tortoise",
           "TranslationKey": "server.npcRoles.Tortoise.name",
-          "IsMemoriesNameOverridden": false,
           "CapturedTimestamp": 1770652940039,
           "FoundLocationNameKey": "server.map.region.Zone2_Tier2"
         },
@@ -173,7 +156,6 @@
           "Id": "NPC",
           "NPCRole": "Hyena",
           "TranslationKey": "server.npcRoles.Hyena.name",
-          "IsMemoriesNameOverridden": false,
           "CapturedTimestamp": 1770653016077,
           "FoundLocationNameKey": "server.map.region.Zone2_Tier1"
         },
@@ -181,7 +163,6 @@
           "Id": "NPC",
           "NPCRole": "Antelope",
           "TranslationKey": "server.npcRoles.Antelope.name",
-          "IsMemoriesNameOverridden": false,
           "CapturedTimestamp": 1770653041478,
           "FoundLocationNameKey": "server.map.region.Zone2_Tier1"
         },
@@ -189,7 +170,6 @@
           "Id": "NPC",
           "NPCRole": "Feran_Windwalker",
           "TranslationKey": "server.npcRoles.Feran_Windwalker.name",
-          "IsMemoriesNameOverridden": false,
           "CapturedTimestamp": 1770653138795,
           "FoundLocationNameKey": "server.map.region.Zone2_Tier3"
         },
@@ -197,7 +177,6 @@
           "Id": "NPC",
           "NPCRole": "Feran_Longtooth",
           "TranslationKey": "server.npcRoles.Feran_Longtooth.name",
-          "IsMemoriesNameOverridden": true,
           "CapturedTimestamp": 1770653142996,
           "FoundLocationNameKey": "server.map.region.Zone2_Tier3"
         },
@@ -205,7 +184,6 @@
           "Id": "NPC",
           "NPCRole": "Skeleton_Mage",
           "TranslationKey": "server.npcRoles.Skeleton_Mage.name",
-          "IsMemoriesNameOverridden": true,
           "CapturedTimestamp": 1771009092154,
           "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
         },
@@ -213,7 +191,6 @@
           "Id": "NPC",
           "NPCRole": "Trork_Chieftain",
           "TranslationKey": "server.npcRoles.Trork_Chieftain.name",
-          "IsMemoriesNameOverridden": true,
           "CapturedTimestamp": 1771009228184,
           "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
         },
@@ -221,7 +198,6 @@
           "Id": "NPC",
           "NPCRole": "Trork_Shaman",
           "TranslationKey": "server.npcRoles.Trork_Shaman.name",
-          "IsMemoriesNameOverridden": true,
           "CapturedTimestamp": 1771009231117,
           "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
         },
@@ -229,7 +205,6 @@
           "Id": "NPC",
           "NPCRole": "Trork_Warrior",
           "TranslationKey": "server.npcRoles.Trork_Warrior.name",
-          "IsMemoriesNameOverridden": true,
           "CapturedTimestamp": 1771009244584,
           "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
         },
@@ -237,7 +212,6 @@
           "Id": "NPC",
           "NPCRole": "Trork_Sentry",
           "TranslationKey": "server.npcRoles.Trork_Sentry.name",
-          "IsMemoriesNameOverridden": true,
           "CapturedTimestamp": 1771009298058,
           "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
         },
@@ -245,7 +219,6 @@
           "Id": "NPC",
           "NPCRole": "Piranha",
           "TranslationKey": "server.npcRoles.Piranha.name",
-          "IsMemoriesNameOverridden": false,
           "CapturedTimestamp": 1771009367860,
           "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
         },
@@ -253,9 +226,15 @@
           "Id": "NPC",
           "NPCRole": "Penguin",
           "TranslationKey": "server.npcRoles.Penguin.name",
-          "IsMemoriesNameOverridden": false,
           "CapturedTimestamp": 1771009899750,
           "FoundLocationNameKey": "server.map.region.Zone3_Tier3"
+        },
+        {
+          "Id": "NPC",
+          "NPCRole": "Horse",
+          "TranslationKey": "server.npcRoles.Horse.name",
+          "CapturedTimestamp": 1772356797455,
+          "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
         }
       ]
     },
@@ -309,11 +288,39 @@
               "MaxDurability": 150.0,
               "OverrideDroppedItemAnimation": false
             },
+            "4": {
+              "Id": "Ingredient_Bone_Fragment",
+              "Quantity": 9,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "12": {
+              "Id": "Ingredient_Stick",
+              "Quantity": 94,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "13": {
+              "Id": "Wood_Oak_Trunk",
+              "Quantity": 44,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
             "8": {
               "Id": "Weapon_Crossbow_Ancient_Steel",
               "Quantity": 1,
               "Durability": 158.92,
               "MaxDurability": 180.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "9": {
+              "Id": "Ingredient_Tree_Sap",
+              "Quantity": 25,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
             "30": {
@@ -330,6 +337,20 @@
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
+            "16": {
+              "Id": "Plant_Crop_Wheat_Item",
+              "Quantity": 2,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "17": {
+              "Id": "Ingredient_Life_Essence",
+              "Quantity": 5,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
             "19": {
               "Id": "Ingredient_Powder_Boom",
               "Quantity": 2,
@@ -340,6 +361,13 @@
             "18": {
               "Id": "Weapon_Bomb",
               "Quantity": 2,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "20": {
+              "Id": "Plant_Flower_Tall_Yellow",
+              "Quantity": 1,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -360,7 +388,21 @@
             },
             "6": {
               "Id": "Weapon_Arrow_Crude",
-              "Quantity": 87,
+              "Quantity": 41,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "15": {
+              "Id": "Wood_Birch_Trunk",
+              "Quantity": 56,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "14": {
+              "Id": "Ingredient_Hide_Medium",
+              "Quantity": 2,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -395,7 +437,7 @@
             },
             "3": {
               "Id": "Food_Wildmeat_Raw",
-              "Quantity": 13,
+              "Quantity": 14,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -416,7 +458,7 @@
             },
             "5": {
               "Id": "Ingredient_Fibre",
-              "Quantity": 2,
+              "Quantity": 15,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -430,28 +472,28 @@
             "0": {
               "Id": "Armor_Cobalt_Head",
               "Quantity": 1,
-              "Durability": 72.5,
+              "Durability": 71.0,
               "MaxDurability": 120.0,
               "OverrideDroppedItemAnimation": false
             },
             "2": {
               "Id": "Armor_Thorium_Hands",
               "Quantity": 1,
-              "Durability": 93.0,
+              "Durability": 92.5,
               "MaxDurability": 120.0,
               "OverrideDroppedItemAnimation": false
             },
             "1": {
               "Id": "Armor_Thorium_Chest",
               "Quantity": 1,
-              "Durability": 28.0,
+              "Durability": 26.5,
               "MaxDurability": 120.0,
               "OverrideDroppedItemAnimation": false
             },
             "3": {
               "Id": "Armor_Cobalt_Legs",
               "Quantity": 1,
-              "Durability": 98.0,
+              "Durability": 97.0,
               "MaxDurability": 120.0,
               "OverrideDroppedItemAnimation": false
             }
@@ -471,7 +513,7 @@
             "2": {
               "Id": "Weapon_Sword_Thorium",
               "Quantity": 1,
-              "Durability": 96.1799999999997,
+              "Durability": 95.33999999999972,
               "MaxDurability": 150.0,
               "OverrideDroppedItemAnimation": false
             },
@@ -482,30 +524,37 @@
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
+            "4": {
+              "Id": "Ingredient_Fabric_Scrap_Linen",
+              "Quantity": 9,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
             "8": {
               "Id": "Weapon_Shortbow_Adamantite",
               "Quantity": 1,
-              "Durability": 179.42,
+              "Durability": 174.19999999999987,
               "MaxDurability": 180.0,
               "OverrideDroppedItemAnimation": false
             },
             "1": {
               "Id": "Weapon_Mace_Adamantite",
               "Quantity": 1,
-              "Durability": 132.5,
+              "Durability": 125.0,
               "MaxDurability": 180.0,
               "OverrideDroppedItemAnimation": false
             },
             "3": {
               "Id": "Tool_Hatchet_Cobalt",
               "Quantity": 1,
-              "Durability": 154.25,
+              "Durability": 153.75,
               "MaxDurability": 325.0,
               "OverrideDroppedItemAnimation": false
             },
             "7": {
               "Id": "Food_Wildmeat_Cooked",
-              "Quantity": 25,
+              "Quantity": 24,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -602,11 +651,11 @@
         "PerWorldData": {
           "default": {
             "LastPosition": {
-              "X": -1106.908203125,
-              "Y": 123.0,
-              "Z": -690.3390502929688,
-              "Pitch": 0.7733029723167419,
-              "Yaw": 1.9948475360870361,
+              "X": -1109.7779541015625,
+              "Y": 117.1500015258789,
+              "Z": -678.2520751953125,
+              "Pitch": -0.5291858911514282,
+              "Yaw": 3.0703773498535156,
               "Roll": 0.0
             },
             "LastMovementStates": {
@@ -689,35 +738,36 @@
                 },
                 "Day": 19
               }
-            ]
+            ],
+            "UserMarkers": []
           }
         },
         "DiscoveredZones": [
-          "Oceans",
-          "Zone1_Temple",
-          "Zone4_Shallow_Ocean_Tier5",
-          "ForgottenTemple",
-          "Zone1_Tier3",
-          "Zone3_Shallow_Ocean_Tier2",
-          "Zone1_Tier2",
-          "Zone3_Shallow_Ocean_Tier3",
-          "Zone1_Tier1",
-          "Zone3_Tier2",
-          "Zone1_Spawn",
-          "Zone3_Shore_Tier2",
-          "Zone3_Shore_Tier3",
-          "Zone3_Tier3",
-          "Zone4_Tier5",
-          "Zone4_Shore_Tier5",
-          "Zone2_Tier1",
-          "Zone2_Tier2",
-          "Zone2_Tier3",
+          "Zone3_Tier1",
           "Zone1_Shore",
-          "Zone3_Tier1"
+          "Zone2_Tier3",
+          "Zone3_Shallow_Ocean_Tier3",
+          "Zone3_Shallow_Ocean_Tier2",
+          "Zone2_Tier2",
+          "Zone1_Spawn",
+          "Zone1_Temple",
+          "Zone4_Tier5",
+          "Oceans",
+          "Zone2_Tier1",
+          "Zone3_Tier3",
+          "Zone3_Tier2",
+          "Zone1_Tier3",
+          "Zone1_Tier2",
+          "Zone1_Tier1",
+          "Zone4_Shore_Tier5",
+          "Zone4_Shallow_Ocean_Tier5",
+          "Zone3_Shore_Tier3",
+          "ForgottenTemple",
+          "Zone3_Shore_Tier2"
         ],
         "DiscoveredInstances": [
           {
-            "$binary": "de+cH1tJQGqsVLv7LWM1UA==",
+            "$binary": "00kwceBLR9aDQszFpqaIJQ==",
             "$type": "04"
           },
           {
@@ -725,7 +775,7 @@
             "$type": "04"
           },
           {
-            "$binary": "00kwceBLR9aDQszFpqaIJQ==",
+            "$binary": "de+cH1tJQGqsVLv7LWM1UA==",
             "$type": "04"
           }
         ],
@@ -776,7 +826,7 @@
         },
         "Health": {
           "Id": "Health",
-          "Value": 161.0,
+          "Value": 76.64347839355469,
           "Modifiers": {
             "Armor_ADDITIVE": {
               "Id": "Static",
@@ -843,8 +893,8 @@
     },
     "HeadRotation": {
       "Rotation": {
-        "Pitch": 0.7733029723167419,
-        "Yaw": 1.9948475360870361,
+        "Pitch": -0.5291858911514282,
+        "Yaw": 3.0703773498535156,
         "Roll": 0.0
       }
     }

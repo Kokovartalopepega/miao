@@ -1,5 +1,5 @@
 {
-  "Version": 3,
+  "Version": 4,
   "ServerName": "Hytale Server",
   "MOTD": "",
   "Password": "somali",
@@ -18,9 +18,14 @@
   },
   "LogLevels": {},
   "Mods": {},
+  "DefaultModsEnabled": true,
   "DisplayTmpTagsInStrings": false,
   "PlayerStorage": {
     "Type": "Hytale"
   },
-  "Update": {}
+  "Update": {},
+  "Backup": {
+    "Enabled": true,
+    "Directory": "backup"
+  }
 }
